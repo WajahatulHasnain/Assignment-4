@@ -1,0 +1,3 @@
+C:\Users\Wajahat Ul Hasnain\OneDrive\Desktop\Assignment 4\CricketTeamManager\obj\Debug\CricketTeamManager.csproj.AssemblyReference.cache
+C:\Users\Wajahat Ul Hasnain\OneDrive\Desktop\Assignment 4\CricketTeamManager\obj\Debug\App.g.cs
+C:\Users\Wajahat Ul Hasnain\OneDrive\Desktop\Assignment 4\CricketTeamManager\obj\Debug\CricketTeamManager_MarkupCompile.cache
